@@ -3,21 +3,21 @@ import Slider from "../Slider2";
 
 export default function Faculty() {
     const faculty = [{
-        img: "",
+        image: "",
         name: "Dr. Savier J S",
         role: "Principal",
         email: "principal@cet.ac.in",
         number: "+91 0000000000"
     },
     {
-        img: "",
+        image: "",
         name: "Dr. Gijoy S",
         role: "Faculty Advisor",
         email: "email@email.com",
         number: "+91 9496330263",
     }, 
     {
-        img: "",
+        image: "",
         name: "Dr. Raju C", 
         role: "Nodal Officer",
         email: "noiedc@cet.ac.in",
